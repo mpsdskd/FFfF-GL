@@ -1,6 +1,8 @@
 # Freifunk für Flüchtline in Bergisch Gladbach 
 
-Stark zusammengekürzte und vereinfachte Version des oszilloskop/ffm-freifunk-faltblatt-6-seiten bearbeitet für die Aktion FFfF-GL
+Stark zusammengekürzte und vereinfachte Version des https://github.com/oszilloskop/ffm-freifunk-faltblatt-6-seiten bearbeitet für die Aktion FFfF-GL
+
+Herzlichen Dank dafür
 
 # Basis
 Grundlage dieses hier vorliegenden Faltblattes ist eine Kieler Version.
